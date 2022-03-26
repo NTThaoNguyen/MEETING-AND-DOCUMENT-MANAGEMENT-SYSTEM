@@ -1,4 +1,4 @@
-# Dự án: HỆ THỐNG QUẢN LÝ LỊCH HỌP VÀ TÀI LIỆU
+# Dự án: HỆ THỐNG QUẢN LÝ LỊCH HỌP VÀ TÀI LIỆU (2/2022 - 3/2022)
 ### Trong thư mục gồm có:
 - Tài liệu SRS 
 - File Test Case 
